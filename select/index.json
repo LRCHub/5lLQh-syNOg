@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "memory of snow",
+  "base_artist": "fripSide",
+  "createdAt": "2026-03-10T09:34:03.679269Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "memory of snow",
+      "artist": "fripSide",
+      "has_synced": true,
+      "path": "select/01_memory_of_snow_fripSide.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "memory of snow",
+      "artist": "fripSide",
+      "has_synced": true,
+      "path": "select/02_memory_of_snow_fripSide.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "memory of snow",
+      "artist": "fripside",
+      "has_synced": true,
+      "path": "select/03_memory_of_snow_fripside.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Memory of a Free Festival",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/04_Memory_of_a_Free_Festival_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Memory Of A Free Festival - Alternate Album Mix",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/05_Memory_Of_A_Free_Festival_-_Alternate_Album_Mix_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Memory of a Free Festival (Alternate Album Mix)",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/06_Memory_of_a_Free_Festival_(Alternate_Album_Mix)_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Harry Patch (In Memory Of)",
+      "artist": "Radiohead",
+      "has_synced": false,
+      "path": "select/07_Harry_Patch_(In_Memory_Of)_Radiohead.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Memory Of You",
+      "artist": "Girls Aloud",
+      "has_synced": true,
+      "path": "select/08_Memory_Of_You_Girls_Aloud.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Memory of Love (Original Version)",
+      "artist": "Benassi Bros. feat. Paul French",
+      "has_synced": false,
+      "path": "select/09_Memory_of_Love_(Original_Version)_Benassi_Bros._feat._Paul_French.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Memory Of Love (Feat Paul French Original Version)",
+      "artist": "Benassi Bros",
+      "has_synced": false,
+      "path": "select/10_Memory_Of_Love_(Feat_Paul_French_Original_Version)_Benassi_Bros.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "In Loving Memory of a Name",
+      "artist": "XTC",
+      "has_synced": true,
+      "path": "select/11_In_Loving_Memory_of_a_Name_XTC.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Memory of a Free Festival",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/12_Memory_of_a_Free_Festival_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "In Memory of Elizabeth Cotton",
+      "artist": "fIREHOSE",
+      "has_synced": true,
+      "path": "select/13_In_Memory_of_Elizabeth_Cotton_fIREHOSE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "memory of snow",
+      "artist": "fripSide",
+      "has_synced": false,
+      "path": "select/pl_01_memory_of_snow_fripSide.txt"
+    }
+  ]
+}
